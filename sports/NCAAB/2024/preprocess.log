@@ -1,0 +1,5 @@
+2024-03-19 18:26:02,948 - preproc - INFO - 15 4542
+2024-03-19 18:33:48,162 - preproc - INFO - 	 -> Loss (rms) 0.2030
+2024-03-19 18:33:48,341 - preproc - INFO - Model Score: 0.6716
+2024-03-19 18:41:58,044 - preproc - INFO - RESULTS on 2023 Men's Bracket Error/STD
+2024-03-19 18:41:58,062 - preproc - INFO - -0.07252430650293165 0.38104645740455856
